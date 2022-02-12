@@ -4,6 +4,8 @@
 
 Run ```make``` and then ```./minishell```
 </br>
+**Update**: I have been told that compilation can fail on other OS than the one the program has been developed on (Linux - Xubuntu), possibly because of the global variable that is the return value or the rl_replace_line function. They can be removed throughout the program but functionalities will obviously disapear.
+</br>
 </br>
 Please note that an history is available each time you launch ./minishell.
 
