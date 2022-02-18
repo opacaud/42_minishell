@@ -1,6 +1,11 @@
 # 42_minishell
 
 ## Project 06: Replicating Bash 4.4 --posix
+</br>
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/minishell)](https://github.com/JaeSeoKim/badge42)
+</br>
+</br>
 
 Run ```make``` and then ```./minishell```
 </br>
