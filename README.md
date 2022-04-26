@@ -3,7 +3,7 @@
 ## Project 06: Replicating Bash 4.4 --posix
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/minishell)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2309008)](https://github.com/JaeSeoKim/badge42)
 </br>
 </br>
 
